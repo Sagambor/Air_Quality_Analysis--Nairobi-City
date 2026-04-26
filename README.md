@@ -54,7 +54,7 @@ I calculated the **daily mean PM2.5 concentration** and compared it against the 
 
 ---
 
-## ⚙️ Tools & Libraries
+##  Tools & Libraries
 - **pandas** – data cleaning and manipulation  
 - **matplotlib** – plotting time series  
 - **seaborn** – correlation heatmap visualization  
@@ -62,7 +62,7 @@ I calculated the **daily mean PM2.5 concentration** and compared it against the 
 
 ---
 
-## 📌 Key Takeaways
+##  Key Takeaways
 - Air quality analysis requires both **pollution metrics** and **meteorological context**.  
 - PM2.5 levels were safe overall, but evening spikes highlight the importance of continuous monitoring.  
 - Correlation analysis confirms expected relationships: particulate matter metrics align closely, while temperature and humidity are inversely related.  
